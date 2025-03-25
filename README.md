@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src=".github/1.PNG" width="350" height="200" />
-  <img src=".github/3.PNG" width="600" height="200" />
+  <img src=".github/3.PNG" width="450" height="200" />
 </p>
 
 Este projeto é um **DESAFIO** de vaga para desenvolvedor **BACKEND** da **Uber**. O desafio aborda **Java Spring** e **Arquitetura Limpa**, aplicados na criação de uma API RESTful para o envio de emails utilizando o Amazon Simple Email Service (SES). Com o uso do Spring Boot, a aplicação permite que os usuários enviem emails de forma programática, garantindo confiabilidade e escalabilidade. Essa solução é ideal para sistemas que necessitam de notificações automáticas ou comunicação por email.
