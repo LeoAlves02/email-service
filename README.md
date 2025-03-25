@@ -1,8 +1,8 @@
 
 # Projeto de API de Envio de Emails (Desafio de Vaga Backend - Uber)
 
-<img src=".github/1.png" alt="Projeto desenvolvido e testado utilizando o Postman para validar a API." width="200" height="300" style="display: inline-block; margin-right: 10px;"/>
-<img src=".github/3.png" alt="Envio de email funcionando." width="200" height="300" style="display: inline-block;"/>
+<img src=".github/1.PNG" alt="Projeto desenvolvido e testado utilizando o Postman para validar a API." width="200" height="300" style="display: inline-block; margin-right: 10px;"/>
+<img src=".github/3.PNG" alt="Envio de email funcionando." width="200" height="300" style="display: inline-block;"/>
 
 Este projeto é um **DESAFIO** de vaga para desenvolvedor **BACKEND** da **Uber**. O desafio aborda **Java Spring** e **Arquitetura Limpa**, aplicados na criação de uma API RESTful para o envio de emails utilizando o Amazon Simple Email Service (SES). Com o uso do Spring Boot, a aplicação permite que os usuários enviem emails de forma programática, garantindo confiabilidade e escalabilidade. Essa solução é ideal para sistemas que necessitam de notificações automáticas ou comunicação por email.
 
@@ -38,7 +38,7 @@ mvn install
 
 # 🚀 Configuração do AWS SES e IAM
 
-<img src=".github/2.png" alt="Configuração do AWS SES e IAM." width="300" height="100"/>
+<img src=".github/2.PNG" alt="Configuração do AWS SES e IAM." width="300" height="100"/>
 
 Para que a API funcione corretamente, é necessário configurar o Amazon SES e o IAM na AWS:
 
